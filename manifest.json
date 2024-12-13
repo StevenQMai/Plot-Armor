@@ -1,6 +1,6 @@
 {
     "manifest-version": 3,
-    "name": "Spoiler Avoider",
+    "name": "Plot Armor",
     "description": "Blocks out spoilers for your favorite media",
     "version": 1.0,
     "permissions": ["storage", "activeTab"],
